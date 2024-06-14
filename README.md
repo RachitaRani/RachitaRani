@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rachita Rani and I'm am an aspiring Developer.</h2>
+<h2 align="left">Hi 👋! My name is Rachita Rani and I'm an aspiring Developer.</h2>
 
 ###
 
